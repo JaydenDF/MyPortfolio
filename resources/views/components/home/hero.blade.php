@@ -36,7 +36,7 @@
                             alt="hero"
                             class="max-w-full lg:ml-auto"
                         />
-                        <span class="absolute -left-8 -bottom-8 z-[-1]">
+                        <span class="absolute -left-9-bottom-8 z-[-1]">
                           <svg
                               width="93"
                               height="93"
