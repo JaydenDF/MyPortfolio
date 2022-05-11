@@ -10,7 +10,7 @@ class ContactController extends Controller
         $validated = $request->validate([
             'name' => 'required',
             'email' => ['required', 'email'],
-            'massage' => 'required'
+            'message' => 'required'
         ]);
         // send email
         return ['success' => true];

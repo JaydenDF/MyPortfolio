@@ -54,45 +54,45 @@
                         formData: {
                             name: '',
                             email: '',
-                            message: '',
+                            message: ''
                         },
                         errors: {},
                         successMessage: '',
 
-                        submitForm(event) {
+                        async submitForm(event) {
                             this.successMessage = '';
                             this.errors = {};
                                 fetch('/contact/submit', {
                                     method: 'POST',
                                     headers: {
-                                        'Content-type': 'application/json',
+                                        'Content-Type': 'application/json',
                                         'X-Requested-With': 'XMLHttpRequest',
                                         'X-CSRF-TOKEN': document.querySelector('meta[name='csrf-token']').getAttribute('content')
                                     },
                                     body: JSON.stringify(this.formData)
-                            })
-                            .then(response => {
-                                if (response.status == 200) {
-                                    return response.json();
-                                }
-                                throw response;
-                            })
-                            .then(result => {
-                                this.formData = {
-                                    name: '',
-                                    email: '',
-                                    message: '',
-                                };
-                                this.successMessage = 'Thanks for your contact request. i will get back to you shortly.';
-                            })
-                            .catch(async (response) => {
-                                const res = await response.json();
-                                if (response.status == 422) {
-                                    this.errors = res.errors;
-                                }
-                                console.log(res)
-                            })
-                        }
+                                    })
+                                    .then(response => {
+                                        if (response.status === 200) {
+                                            return response.json();
+                                        }
+                                        throw response;
+                                    })
+                                    .then(result => {
+                                        this.formData = {
+                                            name: '',
+                                            email: '',
+                                            message: ''
+                                        };
+                                        this.successMessage = 'Thanks for your contact request. i will get back to you shortly.';
+                                    })
+                                    .catch(async (response)) => {
+                                        const res = await response.json();
+                                        if (response.status === 422) {
+                                            this.errors = res.errors;
+                                        }
+                                        console.log(res)
+                                    })
+                             }
                     }
                     " x-on:submit.prevent="submitForm">
                         <template x-if="successMessage">
@@ -122,7 +122,7 @@
                             </template>
                         </div>
                         <div>
-                            <x-button class="w-full">
+                            <x-button class="w-full" type="submit">
                                 Send Message
                             </x-button>
                         </div>
