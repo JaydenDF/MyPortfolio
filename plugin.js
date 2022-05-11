@@ -169,6 +169,7 @@ module.exports = plugin(
           "tg-bg": "#f7f8fa",
           black: "#212B36",
           orange2: "#ffd399",
+          orange3: "#F8B17C",
           lightblue2: "#cefeff"
         },
 

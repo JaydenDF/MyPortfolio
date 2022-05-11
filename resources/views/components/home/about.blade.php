@@ -34,7 +34,7 @@
             </div>
             <div class="w-full lg:w-1/2 xl:w-5/12 px-4">
                 <div class="mt-10 lg:mt-0">
-                    <h2 class="font-bold text-3xl sm:text-4xl text-orange2 mb-8">
+                    <h2 class="font-bold text-3xl sm:text-4xl text-orange3 dark:text-orange2 mb-8">
                         What my friends say about me
                     </h2>
                     <p class="text-base text-body-color mb-8">
