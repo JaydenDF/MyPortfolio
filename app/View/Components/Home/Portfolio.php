@@ -35,7 +35,13 @@ class Portfolio extends Component
                 'title' => 'CCSB (A project from school)',
                 'image' => url('/images/galaxy_logo.png'),
                 'github' => 'https://github.com/NikkivB/CCSB_Groepje5'
-            ]
+            ],
+            [
+            'category' => ['python', 'learning', 'Advent of Code'],
+            'title' => 'learning python (advent of code)',
+            'image' => url('/images/galaxy_logo.png'),
+            'github' => 'https://github.com/JaydenDF/AoC_py_2021'
+        ]
         ];
 
         $this->tabs = Arr::flatten(Arr::pluck($this->items, 'category'));
