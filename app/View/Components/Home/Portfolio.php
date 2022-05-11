@@ -21,7 +21,7 @@ class Portfolio extends Component
             [
                 'category' => ['portfolio', 'laravel'],
                 'title' => 'this portfolio',
-                'image' => url('/images/galaxy_logo.png'),
+                'image' => url('/images/portfolio_ss.jpg'),
                 'github' => 'https://github.com/JaydenDF/MyPortfolio'
             ],
             [
@@ -33,13 +33,13 @@ class Portfolio extends Component
             [
                 'category' => ['school', 'groupProject', 'C#', '.netCore'],
                 'title' => 'CCSB (A project from school)',
-                'image' => url('/images/galaxy_logo.png'),
+                'image' => url('/images/logo_ccsb.png'),
                 'github' => 'https://github.com/NikkivB/CCSB_Groepje5'
             ],
             [
             'category' => ['python', 'learning', 'Advent of Code'],
             'title' => 'learning python (advent of code)',
-            'image' => url('/images/galaxy_logo.png'),
+            'image' => url('/images/521cd034-advent-of-code-2021.jpg'),
             'github' => 'https://github.com/JaydenDF/AoC_py_2021'
         ]
         ];
