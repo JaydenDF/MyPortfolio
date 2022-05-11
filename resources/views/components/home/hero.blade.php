@@ -4,12 +4,18 @@
             <div class="w-full lg:w-5/12 px-4">
                 <div class="hero-content">
                     <h1
-                        class="text-dark dark:text-gray-200 font-bold text-4xl sm:text-[42px] lg:text-[40px] xl:text-[42px] leading-snug mb-6"
+                        class="text-dark dark:text-orange2 font-bold text-4xl sm:text-[42px] lg:text-[40px] xl:text-[42px] leading-snug mb-6"
                     >
                         My name is Jayden.<br/>
                     </h1>
                     <p class="text-base mb-8 max-w-[520px]">
-                        something about me.
+                        I’m a 19-year-old guy and I live in the Netherlands.
+                        In my spare time I like to play games, play soccer and be with my friends.
+                        I also try my best to improve my skills in programming and I like to learn new programming languages and frameworks.
+                    </p>
+                    <p class="text-base mb-8 max-w-[520px]">
+                        My dream job is to be a Game Developer, because I’m very curious as to how games are made.
+                        I have a lot of creativity and I think I can put that creativity to good use.
                     </p>
                     <ul class="flex flex-wrap items-center">
                         <li>

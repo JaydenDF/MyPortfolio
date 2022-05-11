@@ -168,6 +168,8 @@ module.exports = plugin(
           "form-stroke": "#E0E0E0",
           "tg-bg": "#f7f8fa",
           black: "#212B36",
+          orange2: "#ffd399",
+          lightblue2: "#cefeff"
         },
 
         boxShadow: {

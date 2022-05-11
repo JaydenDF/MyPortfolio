@@ -25,7 +25,16 @@ class Portfolio extends Component
                 'github' => 'https://github.com/JaydenDF/MyPortfolio'
             ],
             [
-                //2 and so on
+                'category' => ['logo', 'image'],
+                'title' => 'My Logo',
+                'image' => url('/images/galaxy_logo.png'),
+                'github' => 'https://github.com/JaydenDF/MyLogo'
+            ],
+            [
+                'category' => ['school', 'groupProject', 'C#', '.netCore'],
+                'title' => 'CCSB (A project from school)',
+                'image' => url('/images/galaxy_logo.png'),
+                'github' => 'https://github.com/NikkivB/CCSB_Groepje5'
             ]
         ];
 

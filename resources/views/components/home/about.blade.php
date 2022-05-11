@@ -34,41 +34,17 @@
             </div>
             <div class="w-full lg:w-1/2 xl:w-5/12 px-4">
                 <div class="mt-10 lg:mt-0">
-               <span class="font-semibold text-lg text-primary mb-2 block">
-               Why Choose Us
-               </span>
-                    <h2 class="font-bold text-3xl sm:text-4xl text-dark mb-8">
-                        Make your customers happy by giving services.
+                    <h2 class="font-bold text-3xl sm:text-4xl text-orange2 mb-8">
+                        What my friends say about me
                     </h2>
                     <p class="text-base text-body-color mb-8">
-                        It is a long established fact that a reader will be distracted
-                        by the readable content of a page when looking at its layout.
-                        The point of using Lorem Ipsum is that it has a more-or-less.
+                        Jayden is an incredibly nice and good guy.
+                        He's always busy trying to improve himself and I think he's doing it really well. When something doesn't quite work out,
+                        Jayden asks for help and makes sure that the assignment/project doesn't fall behind, because he can't figure something out
                     </p>
                     <p class="text-base text-body-color mb-12">
-                        A domain name is one of the first steps to establishing your
-                        brand. Secure a consistent brand image with a domain name that
-                        matches your business.
+                        In addition, Jayden is always there for his friends/family and makes sure you feel comfortable.
                     </p>
-                    <a
-                        href="javascript:void(0)"
-                        class="
-                  py-4
-                  px-10
-                  lg:px-8
-                  xl:px-10
-                  inline-flex
-                  items-center
-                  justify-center
-                  text-center text-white text-base
-                  bg-primary
-                  hover:bg-opacity-90
-                  font-normal
-                  rounded-lg
-                  "
-                    >
-                        Get Started
-                    </a>
                 </div>
             </div>
         </div>
