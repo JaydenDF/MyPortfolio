@@ -37,11 +37,23 @@ class Portfolio extends Component
                 'github' => 'https://github.com/NikkivB/CCSB_Groepje5'
             ],
             [
-            'category' => ['python', 'learning', 'Advent of Code'],
-            'title' => 'learning python (advent of code)',
-            'image' => url('/images/521cd034-advent-of-code-2021.jpg'),
-            'github' => 'https://github.com/JaydenDF/AoC_py_2021'
-        ]
+                'category' => ['python', 'learning', 'Advent of Code'],
+                'title' => 'learning python (advent of code)',
+                'image' => url('/images/521cd034-advent-of-code-2021.jpg'),
+                'github' => 'https://github.com/JaydenDF/AoC_py_2021'
+            ],
+            [
+                'category' => ['c++', 'learning', 'Advent of Code'],
+                'title' => 'learning c++ (advent of code)',
+                'image' => url('/images/521cd034-advent-of-code-2021.jpg'),
+                'github' => 'https://github.com/JaydenDF/AoC-2020'
+            ],
+            [
+                'category' => ['laravel', 'groupProject'],
+                'title' => 'learning c++ (advent of code)',
+                'image' => url('/images/an idea.png'),
+                'github' => 'https://github.com/cedricfortuin/opendiscovery'
+            ]
         ];
 
         $this->tabs = Arr::flatten(Arr::pluck($this->items, 'category'));

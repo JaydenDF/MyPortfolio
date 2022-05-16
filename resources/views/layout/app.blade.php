@@ -11,6 +11,12 @@
     <!-- Fonts -->
     <link rel="stylesheet" href="{{ asset('css/app.css') }}">
 
+    <style>
+        html {
+            scroll-behavior: smooth;
+        }
+    </style>
+
 </head>
 <body class="antialiased text-gray-800 dark:text-gray-200">
 <div class="min-h-screen bg-gray-100 dark:bg-gray-900 pt-24">
