@@ -16,7 +16,6 @@ class Portfolio extends Component
      */
     public function __construct()
     {
-        //TODO: fill in with items im proud off :)
         $this->items = [
             [
                 'category' => ['portfolio', 'laravel'],
