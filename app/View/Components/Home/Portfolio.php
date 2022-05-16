@@ -55,7 +55,7 @@ class Portfolio extends Component
             ]
         ];
 
-        $this->tabs = Arr::flatten(Arr::pluck($this->items, 'category'));
+        $this->tabs = array_unique(Arr::flatten(Arr::pluck($this->items, 'category')));
     }
 
     /**
