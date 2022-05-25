@@ -52,6 +52,12 @@ class Portfolio extends Component
                 'title' => 'learning c++ (advent of code)',
                 'image' => url('/images/an idea.png'),
                 'github' => 'https://github.com/cedricfortuin/opendiscovery'
+            ],
+            [
+                'category' => ['game', 'learning', 'school'],
+                'title' => 'Maze for Intake',
+                'image' => url('/images/maze_ss.png'),
+                'github' => 'https://play.unity.com/mg/fps/webgl-builds-198202'
             ]
         ];
 
