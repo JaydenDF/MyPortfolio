@@ -9,7 +9,7 @@
                         My name is Jayden.<br/>
                     </h1>
                     <p class="text-base mb-8 max-w-[520px]">
-                        I’m a 19-year-old guy and I live in the Netherlands.
+                        I’m a 20-year-old guy and I live in the Netherlands.
                         In my spare time I like to play games, play soccer and be with my friends.
                         I also try my best to improve my skills in programming and I like to learn new programming languages and frameworks.
                     </p>

@@ -58,6 +58,12 @@ class Portfolio extends Component
                 'title' => 'Maze for Intake',
                 'image' => url('/images/maze_ss.png'),
                 'github' => 'https://play.unity.com/mg/fps/webgl-builds-198202'
+            ],
+            [
+                'category' => ['game', 'learning', 'school', 'groupProject', 'c#', 'gxpEngine'],
+                'title' => 'StellaRush',
+                'image' => url('/images/StellaRush.png'),
+                'github' => 'https://github.com/JaydenDF/StellaRush'
             ]
         ];
 
