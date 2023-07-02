@@ -7,14 +7,14 @@
                     <div class="w-full xl:w-1/2 px-3 sm:px-4">
                         <div class="py-3 sm:py-4">
                             <img
-                                src="{{url('/images/me1.jpg')}}"
+                                src="{{url('/images/StellaRush.png')}}"
                                 alt=""
                                 class="rounded-2xl w-full"
                             />
                         </div>
                         <div class="py-3 sm:py-4">
                             <img
-                                src="{{url('/images/me2.jpg')}}"
+                                src="{{url('/images/housten.png')}}"
                                 alt=""
                                 class="rounded-2xl w-full"
                             />
@@ -23,7 +23,7 @@
                     <div class="w-full xl:w-1/2 px-3 sm:px-4">
                         <div class="my-4 relative z-10">
                             <img
-                                src="{{url('/images/me3.jpg')}}"
+                                src="{{url('/images/poster_imagery_5.jpg')}}"
                                 alt=""
                                 class="rounded-2xl w-full"
                             />

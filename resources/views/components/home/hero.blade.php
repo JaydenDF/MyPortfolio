@@ -38,7 +38,7 @@
                 <div class="lg:text-right lg:ml-auto">
                     <div class="relative inline-block z-10 pt-11 lg:pt-0">
                         <img
-                            src="{{url('/images/hero.jpg')}}"
+                            src="{{url('/images/me.png')}}"
                             alt="hero"
                             class="max-w-full lg:ml-auto"
                         />

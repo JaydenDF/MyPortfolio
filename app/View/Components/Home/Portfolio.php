@@ -62,7 +62,7 @@ class Portfolio extends Component
             [
                 'category' => ['game', 'learning', 'school', 'groupProject', 'c#', 'gxpEngine'],
                 'title' => 'StellaRush',
-                'image' => url('/images/StellaRush.png'),
+                'image' => url('/images/StellaStart.png'),
                 'github' => 'https://github.com/JaydenDF/StellaRush'
             ]
         ];
