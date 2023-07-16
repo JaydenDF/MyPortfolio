@@ -26,29 +26,24 @@ In the distant future, the immersive space game Stella Rush took players on a th
 Meet the stellar team behind Stella Rush! Our passionate developers, designers, and artists joined forces to create an unforgettable space game experience. Get ready to explore the cosmos with our dedicated team at Stella Rush!
 </p>
 
-<div class="flex flex-wrap -m-2" id="team-members">
-    <div class="p-2 lg:w-1/3 md:w-1/2 w-full">
-        <div class="h-full flex items-center border-gray-200 border p-4 rounded-lg">
-            <div class="flex-grow">
-                <h2 class="text-gray-900 title-font font-medium">Jayden Fokkink</h2>
-                <p class="text-gray-500">UI Designer</p>
-            </div>
+<div class="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 gap-4" id="team-members">
+    <div class="border-gray-200 border p-4 rounded-lg flex items-center">
+        <div class="flex-grow">
+            <h2 class="text-gray-900 title-font font-medium">Jayden Fokkink</h2>
+            <p class="text-gray-500">UI Designer</p>
         </div>
     </div>
-    <div class="p-2 lg:w-1/3 md:w-1/2 w-full">
-        <div class="h-full flex items-center border-gray-200 border p-4 rounded-lg">
-            <div class="flex-grow">
-                <h2 class="text-gray-900 title-font font-medium">Henry Letham</h2>
-                <p class="text-gray-500">CTO</p>
-            </div>
+    <div class="border-gray-200 border p-4 rounded-lg flex items-center">
+        <div class="flex-grow">
+            <h2 class="text-gray-900 title-font font-medium">Henry Letham</h2>
+            <p class="text-gray-500">CTO</p>
         </div>
     </div>
-    <div class="p-2 lg:w-1/3 md:w-1/2 w-full">
-        <div class="h-full flex items-center border-gray-200 border p-4 rounded-lg">
-            <div class="flex-grow">
-                <h2 class="text-gray-900 title-font font-medium">Oskar Blinde</h2>
-                <p class="text-gray-500">Founder</p>
-            </div>
+    <div class="border-gray-200 border p-4 rounded-lg flex items-center">
+        <div class="flex-grow">
+            <h2 class="text-gray-900 title-font font-medium">Oskar Blinde</h2>
+            <p class="text-gray-500">Founder</p>
         </div>
     </div>
 </div>
+

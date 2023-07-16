@@ -103,7 +103,8 @@
                 <h2 class="font-bold text-3xl sm:text-4xl text-orange3 dark:text-orange2 mb-8" id="team-title"></h2>
                 <p class="lg:w-2/3 mx-auto leading-relaxed text-base text-body-color" id="team-text"></p>
             </div>
-            <div id="team-members"></div>
+            <span id="team-members">
+            </span>
         </div>
     </section>
 </x-app-layout>
