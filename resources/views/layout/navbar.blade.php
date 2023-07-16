@@ -30,7 +30,12 @@
                     >
                         <ul class="block lg:flex lg:items-center">
                             @foreach($navigationItems as $item)
-                                <x-layout.navbar-item :href="$item['href']"> {{$item['label']}} </x-layout.navbar-item>
+                                <li>
+                                    <a href="{{ $item['href'] }}"
+                                       class="text-lg font-medium text-dark py-2 flex hover:text-primary dark:text-gray-200 lg:inline-flex lg:ml-6 xl:ml-12">
+                                        {{$item['label']}}
+                                    </a>
+                                </li>
                             @endforeach
                         </ul>
                     </nav>

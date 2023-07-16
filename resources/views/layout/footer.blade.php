@@ -6,7 +6,7 @@
             </span>
             <x-layout.social-icons class="mb-0"></x-layout.social-icons>
             <span class="inline-flex items-center text-xl">
-                Or email me: jaydenfokkink@gmail.com
+                Or email me:&nbsp;<a href="mailto:jaydenfokkink@gmail.com">jaydenfokkink@gmail.com</a>
             </span>
         </div>
     </div>
