@@ -33,7 +33,7 @@ class Portfolio extends Component
                 'category' => ['school', 'groupProject', 'C#', '.netCore'],
                 'title' => 'CCSB (A project from school)',
                 'image' => url('/images/logo_ccsb.png'),
-                'github' => 'https://github.com/NikkivB/CCSB_Groepje5'
+                'github' => route('project', 'ccsb')
             ],
             [
                 'category' => ['python', 'learning', 'Advent of Code'],
@@ -50,7 +50,7 @@ class Portfolio extends Component
             [
                 'category' => ['laravel', 'groupProject'],
                 'title' => 'learning c++ (advent of code)',
-                'image' => url('/images/an idea.png'),
+                'image' => url('/images/an_idea.png'),
                 'github' => 'https://github.com/cedricfortuin/opendiscovery'
             ],
             [
@@ -63,7 +63,7 @@ class Portfolio extends Component
                 'category' => ['game', 'learning', 'school', 'groupProject', 'c#', 'gxpEngine'],
                 'title' => 'StellaRush',
                 'image' => url('/images/StellaStart.png'),
-                'github' => 'https://github.com/JaydenDF/StellaRush'
+                'github' => route('project', 'stellarush')
             ]
         ];
 

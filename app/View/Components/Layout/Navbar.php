@@ -18,7 +18,7 @@ class Navbar extends Component
         $this->navigationItems = [
             [
                 'label' => 'Home',
-                'href' => '#home',
+                'href' => route('home'),
             ],
             [
                 'label' => 'About',
@@ -28,6 +28,14 @@ class Navbar extends Component
                 'label' => 'Projects',
                 'href' => '#portfolio',
             ],
+            [
+                'label' => 'CCSB',
+                'href' => route('project', 'ccsb')
+            ],
+            [
+                'label' => 'Stella Rush',
+                'href' => route('project', 'stellarush')
+            ]
         ];
     }
 
