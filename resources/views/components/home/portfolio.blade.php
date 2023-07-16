@@ -12,7 +12,7 @@
         <div class="flex flex-wrap -mx-4">
             <div class="w-full px-4">
                 <div class="text-center mx-auto mb-[160px] max-w-[510px]">
-                    <h2 class="font-bold text-3xl sm:text-4xl md:text-[40px] text-dark dark:text-gray-300 mb-4">
+                    <h2 class="font-bold text-3xl sm:text-4xl md:text-[40px] text-dark text-orange3 dark:text-orange2 mb-4">
                         My recent projects
                     </h2>
                 </div>

@@ -29,8 +29,8 @@ class Navbar extends Component
                 'href' => '#portfolio',
             ],
             [
-                'label' => 'CCSB',
-                'href' => route('project', 'ccsb')
+                'label' => 'Final Approach',
+                'href' => route('project', 'finalapproach')
             ],
             [
                 'label' => 'Stella Rush',

@@ -9,13 +9,7 @@
                         My name is Jayden.<br/>
                     </h1>
                     <p class="text-base mb-8 max-w-[520px]">
-                        I’m a 20-year-old guy and I live in the Netherlands.
-                        In my spare time I like to play games, play soccer and be with my friends.
-                        I also try my best to improve my skills in programming and I like to learn new programming languages and frameworks.
-                    </p>
-                    <p class="text-base mb-8 max-w-[520px]">
-                        My dream job is to be a Game Developer, because I’m very curious as to how games are made.
-                        I have a lot of creativity and I think I can put that creativity to good use.
+                        I am a CMGT student at Saxion, where my role is engineer, but really, its all about creating fun, interactive and emotional experiences, which is a fancy way of saying that I am a student in game development and one day will become a game developer. I love to learn new skills and see myself become better and better at it.
                     </p>
                     <ul class="flex flex-wrap items-center">
                         <li>
