@@ -959,9 +959,6 @@ body{
 .mb-8{
   margin-bottom: 2rem;
 }
-.mb-12{
-  margin-bottom: 3rem;
-}
 .mb-0{
   margin-bottom: 0px;
 }
@@ -973,6 +970,9 @@ body{
 }
 .mb-4{
   margin-bottom: 1rem;
+}
+.mb-12{
+  margin-bottom: 3rem;
 }
 .mb-1{
   margin-bottom: 0.25rem;

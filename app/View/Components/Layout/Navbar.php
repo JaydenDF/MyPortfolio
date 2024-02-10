@@ -35,6 +35,10 @@ class Navbar extends Component
             [
                 'label' => 'Stella Rush',
                 'href' => route('project', 'stellarush')
+            ],
+            [
+                'label' => 'Unity Platformer',
+                'href' =>  route('project', 'unityplatformer')
             ]
         ];
     }
