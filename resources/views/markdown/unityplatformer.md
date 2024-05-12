@@ -19,16 +19,17 @@ I created this project as a Professional portfolio item for a university module,
 ![About the game image 3](/images/WindBox.png) {#about-image-3 .rounded-2xl.w-full}
 
 ## The team {#team-title}
-
-<p id="team-text">
-Meet the team.
-</p>
-
-<div class="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 gap-4" id="team-members">
-    <div class="border-gray-200 border p-4 rounded-lg flex items-center">
-        <div class="flex-grow">
-            <h2 class="text-gray-900 title-font font-medium">Jayden Fokkink</h2>
-            <p class="text-gray-500">Engineer</p>
-        </div>
-    </div>
+<div class="dark:bg-slate-800">
+  <p id="team-text">
+  Meet the team.
+  </p>
+  
+  <div class="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 gap-4" id="team-members">
+      <div class="border-gray-200 border p-4 rounded-lg flex items-center">
+          <div class="flex-grow">
+              <h2 class="text-gray-900 title-font font-medium dark:text-gray-300">Jayden Fokkink</h2>
+              <p class="text-gray-500">Engineer</p>
+          </div>
+      </div>
+  </div>
 </div>

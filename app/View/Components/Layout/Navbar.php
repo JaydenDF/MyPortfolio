@@ -7,6 +7,7 @@ use Illuminate\View\Component;
 class Navbar extends Component
 {
     public array $navigationItems = [];
+    public array $navigationProjects = [];
 
     /**
      * Create a new component instance.
@@ -27,10 +28,13 @@ class Navbar extends Component
             [
                 'label' => 'Projects',
                 'href' => '#portfolio',
-            ],
+            ]
+        ];
+
+        $this->navigationProjects = [
             [
-                'label' => 'Final Approach',
-                'href' => route('project', 'finalapproach')
+            'label' => 'Final Approach',
+            'href' => route('project', 'finalapproach')
             ],
             [
                 'label' => 'Stella Rush',

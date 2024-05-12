@@ -27,37 +27,37 @@ Meet the stellar team behind Stella Rush! Our passionate developers, designers, 
 <div class="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 gap-4" id="team-members">
     <div class="border-gray-200 border p-4 rounded-lg flex items-center">
         <div class="flex-grow">
-            <h2 class="text-gray-900 title-font font-medium">Jayden Fokkink</h2>
+            <h2 class="text-gray-900 title-font font-medium dark:text-gray-300">Jayden Fokkink</h2>
             <p class="text-gray-500">Engineer</p>
         </div>
     </div>
     <div class="border-gray-200 border p-4 rounded-lg flex items-center">
         <div class="flex-grow">
-            <h2 class="text-gray-900 title-font font-medium">Benko J.</h2>
+            <h2 class="text-gray-900 title-font font-medium dark:text-gray-300">Benko J.</h2>
             <p class="text-gray-500">Engineer</p>
         </div>
     </div>
     <div class="border-gray-200 border p-4 rounded-lg flex items-center">
         <div class="flex-grow">
-            <h2 class="text-gray-900 title-font font-medium">Pană M.</h2>
+            <h2 class="text-gray-900 title-font font-medium dark:text-gray-300">Pană M.</h2>
             <p class="text-gray-500">Artist</p>
         </div>
     </div>
 <div class="border-gray-200 border p-4 rounded-lg flex items-center">
         <div class="flex-grow">
-            <h2 class="text-gray-900 title-font font-medium">Barthel S.</h2>
+            <h2 class="text-gray-900 title-font font-medium dark:text-gray-300">Barthel S.</h2>
             <p class="text-gray-500">Artist</p>
         </div>
     </div>
 <div class="border-gray-200 border p-4 rounded-lg flex items-center">
         <div class="flex-grow">
-            <h2 class="text-gray-900 title-font font-medium">Jennison R.</h2>
+            <h2 class="text-gray-900 title-font font-medium dark:text-gray-300">Jennison R.</h2>
             <p class="text-gray-500">designer</p>
         </div>
     </div>
 <div class="border-gray-200 border p-4 rounded-lg flex items-center">
         <div class="flex-grow">
-            <h2 class="text-gray-900 title-font font-medium">Kirilov K.</h2>
+            <h2 class="text-gray-900 title-font font-medium dark:text-gray-300">Kirilov K.</h2>
             <p class="text-gray-500">designer</p>
         </div>
     </div>

@@ -97,7 +97,7 @@
         </div>
     </section>
 
-    <section class="text-gray-600 body-font bg-white">
+    <section class="text-gray-600 body-font bg-white dark:bg-slate-800">
         <div class="container px-5 py-24 mx-auto">
             <div class="flex flex-col text-center w-full mb-20">
                 <h2 class="font-bold text-3xl sm:text-4xl text-orange3 dark:text-orange2 mb-8" id="team-title"></h2>

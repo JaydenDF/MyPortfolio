@@ -27,37 +27,37 @@ Meet the stellar team behind Stella Rush! Our passionate developers, designers, 
 <div class="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 gap-4" id="team-members">
     <div class="border-gray-200 border p-4 rounded-lg flex items-center">
         <div class="flex-grow">
-            <h2 class="text-gray-900 title-font font-medium">Jayden Fokkink</h2>
+            <h2 class="text-gray-900 title-font font-medium dark:text-gray-300">Jayden Fokkink</h2>
             <p class="text-gray-500">Engineer</p>
         </div>
     </div>
     <div class="border-gray-200 border p-4 rounded-lg flex items-center">
         <div class="flex-grow">
-            <h2 class="text-gray-900 title-font font-medium">Saļņikovs M.</h2>
+            <h2 class="text-gray-900 title-font font-medium dark:text-gray-300">Saļņikovs M.</h2>
             <p class="text-gray-500">Engineer</p>
         </div>
     </div>
     <div class="border-gray-200 border p-4 rounded-lg flex items-center">
         <div class="flex-grow">
-            <h2 class="text-gray-900 title-font font-medium">Hoz de Vila Guanella T.</h2>
+            <h2 class="text-gray-900 title-font font-medium dark:text-gray-300">Hoz de Vila Guanella T.</h2>
             <p class="text-gray-500">Artist</p>
         </div>
     </div>
 <div class="border-gray-200 border p-4 rounded-lg flex items-center">
         <div class="flex-grow">
-            <h2 class="text-gray-900 title-font font-medium">Payevshchyk V.</h2>
+            <h2 class="text-gray-900 title-font font-medium dark:text-gray-300">Payevshchyk V.</h2>
             <p class="text-gray-500">designer</p>
         </div>
     </div>
 <div class="border-gray-200 border p-4 rounded-lg flex items-center">
         <div class="flex-grow">
-            <h2 class="text-gray-900 title-font font-medium">Janulevičius I.</h2>
+            <h2 class="text-gray-900 title-font font-medium dark:text-gray-300">Janulevičius I.</h2>
             <p class="text-gray-500">designer</p>
         </div>
     </div>
 <div class="border-gray-200 border p-4 rounded-lg flex items-center">
         <div class="flex-grow">
-            <h2 class="text-gray-900 title-font font-medium">Stylianou A.</h2>
+            <h2 class="text-gray-900 title-font font-medium dark:text-gray-300">Stylianou A.</h2>
             <p class="text-gray-500">designer</p>
         </div>
     </div>
