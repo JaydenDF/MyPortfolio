@@ -43,6 +43,10 @@ class Navbar extends Component
             [
                 'label' => 'Unity Platformer',
                 'href' =>  route('project', 'unityplatformer')
+            ],
+            [
+                'label' => 'Godot Wave Survival',
+                'href' =>  route('project', 'GodotWaveSurvivalGame')
             ]
         ];
     }
