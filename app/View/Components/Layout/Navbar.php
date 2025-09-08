@@ -23,11 +23,11 @@ class Navbar extends Component
             ],
             [
                 'label' => 'About',
-                'href' => '#about',
+                'href' => route('home' ,'#about'),
             ],
             [
                 'label' => 'Projects',
-                'href' => '#portfolio',
+                'href' => route('home' ,'#portfolio'),
             ]
         ];
 
@@ -45,7 +45,7 @@ class Navbar extends Component
                 'href' =>  route('project', 'unityplatformer')
             ],
             [
-                'label' => 'Godot Wave Survival',
+                'label' => 'Godot Wave Survival Game',
                 'href' =>  route('project', 'GodotWaveSurvivalGame')
             ]
         ];
