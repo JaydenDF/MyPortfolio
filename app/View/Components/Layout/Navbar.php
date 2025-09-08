@@ -46,7 +46,7 @@ class Navbar extends Component
             ],
             [
                 'label' => 'Godot Wave Survival Game',
-                'href' =>  route('project', 'GodotWaveSurvivalGame')
+                'href' =>  route('project', 'godotWaveSurvivalGame')
             ]
         ];
     }
