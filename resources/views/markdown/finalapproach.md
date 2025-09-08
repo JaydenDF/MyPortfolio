@@ -3,7 +3,7 @@
 <p id="header-text">
 Houston we have a problem is a game concept created for project final approach, this project we had to create a game concept of a physics based puzzle game, our idea for this game was to make a gun which the player can aim towards the ground and repel themselves into the sky, the name came from the idea that the player is an astronaut and his spaceship was wrecked.</p>
 
-<a href="https://github.com/JaydenDF/StellaRush" id="header-giethub-link" target="_blank" class="py-4 px-6 md:px-9 lg:px-6 xl:px-9 leading-normal border inline-block transition bg-primary border-primary text-white hover:bg-opacity-80 rounded-lg">
+<a href="https://github.com/JaydenDF/final-approch" id="header-github-link" target="_blank" class="py-4 px-6 md:px-9 lg:px-6 xl:px-9 leading-normal border inline-block transition bg-primary border-primary text-white hover:bg-opacity-80 rounded-lg">
 Github repository
 </a>
 

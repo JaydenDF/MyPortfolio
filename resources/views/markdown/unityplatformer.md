@@ -3,7 +3,7 @@
 <p id="header-text">
 Unity platformer is a platformer that I made with unity, it isn't finished yet since I only have the mechanics and no levels. I am going to work on the levels in the future and try finishing this game as much as possible. I have made documentation of my code.</p>
 
-<a href="https://github.com/JaydenDF/StellaRush" id="header-giethub-link" target="_blank" class="py-4 px-6 md:px-9 lg:px-6 xl:px-9 leading-normal border inline-block transition bg-primary border-primary text-white hover:bg-opacity-80 rounded-lg">
+<a href="https://github.com/JaydenDF/PlatformerUnity" id="header-github-link" target="_blank" class="py-4 px-6 md:px-9 lg:px-6 xl:px-9 leading-normal border inline-block transition bg-primary border-primary text-white hover:bg-opacity-80 rounded-lg">
 Github repository
 </a>
 

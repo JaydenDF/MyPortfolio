@@ -3,7 +3,7 @@
 <p id="header-text">
 Stella rush is the game my group created for project lift off, project liftoff was a project about making an arcade game and creating our own controller along with it the designers were responsible for the controller, the artists for the art and the engineers to make the game work, I was lucky to get an awesome group during this project and was an awesome project overall.</p>
 
-<a href="https://github.com/JaydenDF/StellaRush" id="header-giethub-link" target="_blank" class="py-4 px-6 md:px-9 lg:px-6 xl:px-9 leading-normal border inline-block transition bg-primary border-primary text-white hover:bg-opacity-80 rounded-lg">
+<a href="https://github.com/JaydenDF/StellaRush" id="header-github-link" target="_blank" class="py-4 px-6 md:px-9 lg:px-6 xl:px-9 leading-normal border inline-block transition bg-primary border-primary text-white hover:bg-opacity-80 rounded-lg">
 Github repository
 </a>
 
