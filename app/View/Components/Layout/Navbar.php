@@ -47,7 +47,16 @@ class Navbar extends Component
             [
                 'label' => 'Godot Wave Survival Game',
                 'href' =>  route('project', 'godotWaveSurvivalGame')
+            ],
+            [
+                'label' => 'Substances',
+                'href' =>  route('project', 'Substances')
+            ],
+            [
+                'label' => 'VFX',
+                'href' =>  route('project', 'VFX')
             ]
+
         ];
     }
 
