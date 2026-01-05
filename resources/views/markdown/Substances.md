@@ -1,12 +1,8 @@
-## Unity Platformer {#header-title}
+## Substances {#header-title}
 
 <p id="header-text">
 I created a couple substances with as inspiration of the roman times, and looking at what things are popular in games. During the roman times chainmail armor was really common and I was super interested in making it as a substance. And when my mind went to the weapons they would use back then, I was interested in making the metal substance. I quickly found out however  that this would be too easy, so I decided to try to make animated substances instead, in the form of waving grass. A wooden substance for the weapon handles. and dragons, because who doesn’t like dragons in their games. And leather because it is a common material for generic armor.
 </p>
-
-<a href="https://github.com/JaydenDF/PlatformerUnity" id="header-github-link" target="_blank" class="py-4 px-6 md:px-9 lg:px-6 xl:px-9 leading-normal border inline-block transition bg-primary border-primary text-white hover:bg-opacity-80 rounded-lg">
-Github repository
-</a>
 
 ![Image](/images/EurpeanDragonScales.png) {#header-image .h-auto.w-24.rounded-lg}
 

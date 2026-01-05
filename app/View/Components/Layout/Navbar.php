@@ -55,6 +55,10 @@ class Navbar extends Component
             [
                 'label' => 'VFX',
                 'href' =>  route('project', 'VFX')
+            ],
+            [
+                'label' => 'UnrealZombieSurvival',
+                'href' =>  route('project', 'UnrealZombieSurvival')
             ]
 
         ];

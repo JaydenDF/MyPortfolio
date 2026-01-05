@@ -3,9 +3,6 @@
 <p id="header-text">
 This is a game where the player needs to survive waves of enemies. Enemies become stronger each wave, and they are coming with increasing bigger numbers. It is the goal of the player to gather enough points to buy the ending. the player can get points by hitting and defeating an enemy.
 </p>
-<a href="https://github.com/JaydenDF/StellaRush" id="header-github-link" target="_blank" class="py-4 px-6 md:px-9 lg:px-6 xl:px-9 leading-normal border inline-block transition bg-primary border-primary text-white hover:bg-opacity-80 rounded-lg">
-Github repository
-</a>
 
 ![Image](/images/BeingChased.png) {#header-image .h-auto.w-24.rounded-lg}
 

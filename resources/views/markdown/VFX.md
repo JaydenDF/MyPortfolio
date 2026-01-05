@@ -1,4 +1,4 @@
-## Unity Platformer {#header-title}
+## Unity Visual effects {#header-title}
 
 <p id="header-text">
 I created a couple Visual effects, I didn't have a specific inspiration for these visual effects. I just wanted to make some effects that were pretty fundamental and would teach me a lot. I created a visual effect that would follow a path, an effect like this could be used for a lot of things. similarly, a visual effect that uses a mesh, so it can follow the player or an npc. one visual effect is inspired by the Mandalorian, the disintegration effect. furthermore i made a lightning effect and a classic magic orb.
